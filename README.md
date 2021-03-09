@@ -1,2 +1,2 @@
-# Java-Algorithm-Practice
-记录一些算法的解答过程
+# Java-I-Love-You
+记录一些关于Java的知识
